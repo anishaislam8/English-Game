@@ -8,4 +8,4 @@ Features:
 3.  Score count
 
 
-######Run Server.java located in the 'sample' package first to start the server and then run Main.java to start the clients
+###### Run Server.java located in the 'sample' package first to start the server and then run Main.java to start the clients
